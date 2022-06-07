@@ -62,6 +62,8 @@ Implemente el circuito que se presenta en la figura 3.1.
 
 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
 
+![image](https://user-images.githubusercontent.com/105695077/172501738-f2ee5789-9a8d-4a06-a089-1548eaafd5be.png)
+
 Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla
 
 ![image](https://user-images.githubusercontent.com/105695077/172501475-06fcbbd0-6b1b-46ec-9d25-0d71939d9c6f.png)
