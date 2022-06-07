@@ -33,13 +33,13 @@ Martes 7 de junio de 2022
 
 General:
 
-Demostrar y explicar al momento de armar un circuito el Análisis de Mallas tanto en el simulador Tinkercad como en el protoboard.  
+Demostrar y explicar sobre los nodos al momento de armar un circuito tanto en el simulador Tinkercad como en el protoboard.  
 
 Especificos:
 
-.Demostrar a travez del simulador Tinkercad la manera de armar un circuito y obtener de ella el analisis de mallas.
+.Demostrar a travez del simulador Tinkercad la manera de armar un circuito y obtener de ella los nodos principales.
 
-.Explicar a travez del circuito armado en el protoboard el analisis de mallas y comparar los resultados obtenidos con el simulador. 
+.Explicar a travez del circuito armado en el protoboard el analisis de los nodos y comparar los resultados obtenidos con el simulador. 
 
 # MARCO TEORICO:
 
