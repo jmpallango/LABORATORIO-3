@@ -61,7 +61,7 @@ Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
 
 Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla
 
-Compare los valores de la tabla 3.1 y realice sus conclusiones.
+Compare los valores de la tabla y realice sus conclusiones.
 
 Calcular errores de las mediciones y comentar los resultados.
 
