@@ -43,6 +43,9 @@ Especificos:
 
 # MARCO TEORICO:
 
+![image](https://user-images.githubusercontent.com/105695077/172496870-a872ae25-0440-4db3-bb74-e67443c555ea.png)
+![image](https://user-images.githubusercontent.com/105695077/172496895-3a3145e4-7b1a-4c22-9cd9-40e63fa5c84e.png)
+
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 El análisis de nodos es una técnica que hace uso de la LCK para expresar corrientes en función de voltajes.
