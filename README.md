@@ -74,7 +74,13 @@ Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los v
 
 Compare los valores de la tabla y realice sus conclusiones.
 
+Tanto los valores adquiridos por el simulador y en el protoboard los nodos tienen un ligero desfase en sus resultados debido al voltaje que reccorre en el circuito y esto nos da una variacion en los resultados.
+
 Calcular errores de las mediciones y comentar los resultados.
+
+En el nodo 1 nos encontramos con un error de 1.76% donde el valor del voltaje con el valor teorico influyen una pequeña parte
+
+En el 2 nos encontramos con un error de 1.98% donde el valor del voltaje con el valor teorico influyen una pequeña parte
 
 # VIDEO:
 
