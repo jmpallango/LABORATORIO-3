@@ -73,9 +73,9 @@ Calcular errores de las mediciones y comentar los resultados.
 
 # CONCLUSIONES:
 
--Para el calculo de mallas hay que tener en cuenta el uso correcto de las leyes de Kirchhoff y entender el calculo de corrientes para este.
+-Para el calculo de voltaje de los nodos hay que tener en cuenta el uso correcto de las leyes de Kirchhoff y entender el sentido de la corriente que tiene el circuito.
 
--Utilizar de mejor manera las herramientas de medicion para tener un calculo preciso al momento de realizar los calculos de mallas.
+-Utilizar de mejor manera las herramientas de medicion para tener un calculo preciso al momento de realizar los calculos de los nodos.
 
 # BIBLIOGRAFÍA:
 
