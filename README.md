@@ -73,11 +73,13 @@ Calcular errores de las mediciones y comentar los resultados.
 
 # CONCLUSIONES:
 
+-Para el calculo de mallas hay que tener en cuenta el uso correcto de las leyes de Kirchhoff y entender el calculo de corrientes para este.
+
+-Utilizar de mejor manera las herramientas de medicion para tener un calculo preciso al momento de realizar los calculos de mallas.
 
 # BIBLIOGRAFÍA:
 
-1.6. Análisis de Mallas. - Circuitos Eléctricos I. (s. f.). Circuitos Eléctricos I. https://sites.google.com/site/e91mediosdiitalesricardotrejo/home/1-6-analisis-de-mallas
-
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
 Rubrica:
 
