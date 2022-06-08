@@ -72,6 +72,24 @@ Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los v
 
 ![image](https://user-images.githubusercontent.com/105695077/172501398-ee254016-5dd0-4d62-a8b4-578c3b500a95.png)
 
+![image](https://user-images.githubusercontent.com/105695077/172504944-3bfb1afd-7d45-41f6-ac76-a0b2247c2e28.png)
+
+![image](https://user-images.githubusercontent.com/105695077/172504960-bc371616-5371-410c-90b2-c097ec14829d.png)
+
+![image](https://user-images.githubusercontent.com/105695077/172505002-b4325e22-cd42-4403-9baa-9302981101b0.png)
+
+SOLUCION:
+
+![image](https://user-images.githubusercontent.com/105695077/172505033-e3af97cf-7ad7-4968-a713-6e9abec0b6ba.png)
+
+![image](https://user-images.githubusercontent.com/105695077/172505063-cd1aeaa4-ef1d-488e-9623-917754a4d5ed.png)
+
+![image](https://user-images.githubusercontent.com/105695077/172505108-4fd8dc13-9a43-4b6f-90b8-0e985effe9bc.png)
+
+![image](https://user-images.githubusercontent.com/105695077/172505143-7a6f87ae-2e68-4831-9775-51275ff81db1.png)
+
+![image](https://user-images.githubusercontent.com/105695077/172505163-04258dcd-44b4-4cd6-bda7-7f55581fa4e9.png)
+
 Compare los valores de la tabla y realice sus conclusiones.
 
 Tanto los valores adquiridos por el simulador y en el protoboard los nodos tienen un ligero desfase en sus resultados debido al voltaje que reccorre en el circuito y esto nos da una variacion en los resultados.
