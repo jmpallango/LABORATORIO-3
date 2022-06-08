@@ -78,9 +78,9 @@ Tanto los valores adquiridos por el simulador y en el protoboard los nodos tiene
 
 Calcular errores de las mediciones y comentar los resultados.
 
-En el nodo 1 nos encontramos con un error de 1.76% donde el valor del voltaje con el valor teorico influyen una pequeña parte
+En el nodo 1 nos encontramos con un error de 0.85% donde el valor del voltaje con el valor teorico influyen una pequeña parte
 
-En el 2 nos encontramos con un error de 1.98% donde el valor del voltaje con el valor teorico influyen una pequeña parte
+En el 2 nos encontramos con un error de 8.89% donde el valor del voltaje con el valor teorico influyen una pequeña parte
 
 # VIDEO:
 
