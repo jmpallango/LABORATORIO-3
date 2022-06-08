@@ -84,6 +84,7 @@ En el 2 nos encontramos con un error de 8.89% donde el valor del voltaje con el 
 
 # VIDEO:
 
+https://youtu.be/Q0cPk_5juOY
 
 # CONCLUSIONES:
 
